@@ -1,0 +1,23 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "audit": "0.0.6",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "forever": "^0.15.3",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.9",
+    "path": "^0.12.7",
+    "static": "^2.0.0"
+  }
+}
